@@ -8,6 +8,11 @@
 </head>
 <body>
 
+<%= link_to "home",root_path %>
+<%= link_to "About us",about_path %>
+<% flash.each do |name,msg| %>
+<%end%>
+<%= render 'layouts/header' %>
 <%= yield %>
 
 </body>
