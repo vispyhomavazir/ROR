@@ -1,4 +1,4 @@
-# Welcome to my rortraining App
-[*This is my RORtraining App*]
+# Welcome to my ROR Training App
+[*This is my ROR Training App*]
 
 By [*Vispy Homavazir*]
